@@ -8,10 +8,10 @@ jobs:
         runs-on: ubuntu-latest
         steps:
             - uses: actions/checkout@v4
-            - name: Setup dotnet 4.6.2
+            - name: Setup dotnet
               uses: actions/setup-dotnet@v4
               with:
-                  dotnet-version: "4.6.2"
+                  dotnet-version: "8.x"
             # You can test your matrix by printing the current dotnet version
             - name: Display dotnet version
               run: dotnet --version
