@@ -4,9 +4,9 @@ This repository contains a reusable Dataverse plugin that calculates rollup fiel
 
 ## Features
 
--   Real-time rollup calculations for Dataverse entities
--   Reusable
--   Handles create, update, and delete events
+-   ⏱️ Real-time rollup calculations for Dataverse entities
+-   🧩 Reusable
+-   🔃 Handles create, update, and delete events
 
 ## Getting Started
 
